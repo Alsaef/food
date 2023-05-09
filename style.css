@@ -1,0 +1,15 @@
+.btn-food {
+        background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+        padding: 9px 25px;
+        cursor: pointer;
+        border: none; 
+}
+.btn-warning-food{
+        background-image:  linear-gradient(to bottom, orange 0%, orange 100%);
+}
+.btn-primary-food{
+   background-image: linear-gradient(to left, #FF589B 0%, #fd176f 100%);
+}
+.text-primary-ins{
+        color: #FF136F;
+}
